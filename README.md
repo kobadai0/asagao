@@ -1,24 +1,30 @@
-# README
+# Asagao (Baseball team Blog Site)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a blog site for a baseball team created based on 「改訂4版 基礎Ruby on Rails」.
+In addition to posting blogs and news, you can also perform login functions and user management.
 
-Things you may want to cover:
+# Technology
+* ruby 2.5.8p224 (2020-03-31 revision 67882)
 
-* Ruby version
+* Rails 6.1.4.1
 
-* System dependencies
+* psql (PostgreSQL) 14.1 (Ubuntu 14.1-1.pgdg18.04+1)
 
-* Configuration
+# Function
+* Login Logout
 
-* Database creation
+* News and Blog
+  * Post
+  * Read
+  * Edit
+  * Delete
 
-* Database initialization
+* Member List
+  * Member profile confirmation
+  * Member search
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Site management
+  *  Member management
+    * Member edit, delete  
+  *  News management
+    *  News edit, delete
