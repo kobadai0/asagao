@@ -1,0 +1,8 @@
+﻿<% @page_title = @article.title %>
+<h1><%= @article.title %></h1>
+
+<%= simple_format(@article.body) %>
+
+<div class="article-footer">
+  <%= @article.released_at.strftime("%Y/%m/%d %H:%M") %>
+</div>

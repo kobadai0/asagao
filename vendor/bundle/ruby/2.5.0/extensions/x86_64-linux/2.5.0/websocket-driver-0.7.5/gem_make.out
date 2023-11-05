@@ -1,0 +1,21 @@
+current directory: /mnt/c/Users/kdai0/Desktop/rails2/asagao/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/usr/bin/ruby2.5 -r ./siteconf20210925-130-127mo9w.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/c/Users/kdai0/Desktop/rails2/asagao/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR=" clean
+make: Warning: File 'Makefile' has modification time 0.17 s in the future
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /mnt/c/Users/kdai0/Desktop/rails2/asagao/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR="
+make: Warning: File 'Makefile' has modification time 0.13 s in the future
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /mnt/c/Users/kdai0/Desktop/rails2/asagao/vendor/bundle/ruby/2.5.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make "DESTDIR=" install
+make: Warning: File 'websocket_mask.so' has modification time 0.17 s in the future
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20210925-130-15cgfy6
+make: warning:  Clock skew detected.  Your build may be incomplete.

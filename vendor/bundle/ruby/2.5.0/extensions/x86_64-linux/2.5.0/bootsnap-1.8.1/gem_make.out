@@ -1,0 +1,21 @@
+current directory: /mnt/c/Users/kdai0/Desktop/rails2/asagao/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.8.1/ext/bootsnap
+/usr/bin/ruby2.5 -r ./siteconf20210925-130-ycw894.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/c/Users/kdai0/Desktop/rails2/asagao/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.8.1/ext/bootsnap
+make "DESTDIR=" clean
+make: Warning: File 'Makefile' has modification time 0.17 s in the future
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /mnt/c/Users/kdai0/Desktop/rails2/asagao/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.8.1/ext/bootsnap
+make "DESTDIR="
+make: Warning: File 'Makefile' has modification time 0.15 s in the future
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /mnt/c/Users/kdai0/Desktop/rails2/asagao/vendor/bundle/ruby/2.5.0/gems/bootsnap-1.8.1/ext/bootsnap
+make "DESTDIR=" install
+make: Warning: File 'bootsnap.so' has modification time 0.17 s in the future
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20210925-130-neftke/bootsnap
+make: warning:  Clock skew detected.  Your build may be incomplete.

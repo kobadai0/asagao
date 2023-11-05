@@ -1,0 +1,25 @@
+current directory: /mnt/c/Users/kdai0/Desktop/rails2/asagao/vendor/bundle/ruby/2.5.0/gems/byebug-11.1.3/ext/byebug
+/usr/bin/ruby2.5 -r ./siteconf20210925-130-1mauric.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/c/Users/kdai0/Desktop/rails2/asagao/vendor/bundle/ruby/2.5.0/gems/byebug-11.1.3/ext/byebug
+make "DESTDIR=" clean
+make: Warning: File 'Makefile' has modification time 0.16 s in the future
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /mnt/c/Users/kdai0/Desktop/rails2/asagao/vendor/bundle/ruby/2.5.0/gems/byebug-11.1.3/ext/byebug
+make "DESTDIR="
+make: Warning: File 'Makefile' has modification time 0.12 s in the future
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /mnt/c/Users/kdai0/Desktop/rails2/asagao/vendor/bundle/ruby/2.5.0/gems/byebug-11.1.3/ext/byebug
+make "DESTDIR=" install
+make: Warning: File 'byebug.so' has modification time 0.16 s in the future
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20210925-130-15hp8sh/byebug
+make: warning:  Clock skew detected.  Your build may be incomplete.
